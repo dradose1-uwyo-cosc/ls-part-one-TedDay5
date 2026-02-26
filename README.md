@@ -1,6 +1,6 @@
-# [Name]
-## [Assignment #]
-## [Submission date: MM/DD/YY]
+# [Theodore Day]
+## [Assignment 03]
+## [Submission date: 02/25/26]
 ## Worked with/sources 
 * example
 * example
@@ -10,3 +10,4 @@
 * example
 * example
 * example
+
